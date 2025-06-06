@@ -2,4 +2,5 @@ pydub
 numpy
 scipy
 webrtcvad
-
+pyannote.audio
+torch
